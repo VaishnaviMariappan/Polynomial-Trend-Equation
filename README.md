@@ -1,0 +1,1 @@
+# Polynomial-Trend-Equation
